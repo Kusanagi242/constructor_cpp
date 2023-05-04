@@ -61,7 +61,7 @@ int main()
         cout << "Here is your new menu"<< endl << endl; 
         break;
     }
-    cout << "\n";
+    newline();
     // print the value
     cout << "Your's Present bike name: " << myBike.brand 
             << endl << "Years: " << myBike.years 
